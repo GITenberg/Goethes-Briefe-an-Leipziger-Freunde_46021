@@ -1,0 +1,39 @@
+_repo: Goethes-Briefe-an-Leipziger-Freunde_46021
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+  editor:
+    agent_name: Jahn, Otto
+    alias: Iahn, Otto
+    birthdate: 1813
+    deathdate: 1869
+    gutenberg_agent_id: '36500'
+    url: http://www.gutenberg.org/2009/agents/36500
+description: ''
+gutenberg_issued: '2014-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46021'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, German -- 18th century -- Correspondence'
+- !lcsh 'Authors, German -- 19th century -- Correspondence'
+- !lcc 'PT'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832 -- Correspondence'
+title: Goethes Briefe an Leipziger Freunde
+url: http://www.gutenberg.org/ebooks/46021
